@@ -1,1 +1,1 @@
-FROM nginx:latest
+FROM tindy2013/subconverter
